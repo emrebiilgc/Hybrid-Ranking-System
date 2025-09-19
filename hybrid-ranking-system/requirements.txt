@@ -3,10 +3,14 @@ pandas==2.2.3
 polars==1.21.0
 scikit-learn==1.2.2
 lightgbm==4.5.0
+catboost==1.2.7
 sentence-transformers==2.7.0
 transformers==4.52.4
 tokenizers==0.21.2
+rank-bm25==0.2.2
+streamlit==1.37.0
 tqdm==4.67.1
 joblib==1.5.1
 pyarrow==19.0.1
-
+matplotlib==3.9.2
+seaborn==0.13.2
