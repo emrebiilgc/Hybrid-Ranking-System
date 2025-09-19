@@ -11,7 +11,6 @@ Kodlar **veri hazırlama**, **model eğitimi** ve **tahmin üretme** adımların
 solution/
 │
 ├── requirements.txt        # Kullanılan kütüphaneler
-├── README.md               # Bu rehber
 │
 ├── src/                    # Kaynak kodlar
 │   ├── __init__.py
